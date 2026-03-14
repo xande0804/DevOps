@@ -9,4 +9,5 @@ do Git.
 
 ## Próximo passo
 Entender a diferença entre modified e
-untracked.
+untracked.## Fluxo do trabalho
+Este projeto utiliza GitHub Flow.
