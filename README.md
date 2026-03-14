@@ -1,6 +1,6 @@
 # Meu Projeto Git
-Projeto introdutório para praticar
-versionamento com Git.
+Projeto introdutório para aprender versionamento com Git e GitHub Flow.
+
 ## Arquivos
 - README.md
 - index.html
